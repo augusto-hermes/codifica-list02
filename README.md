@@ -12,8 +12,8 @@ Exercícios que contemplam as operações fundamentais, estruturas de controle, 
 
 Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
 
-✅ NodeJS
-✅ prompt-sync
+- ✅ [Node.js] (https://nodejs.org/)
+- ✅ [prompt-sync] (https://www.npmjs.com/package/prompt-sync)
 
 ## 📂 Conteúdo
 
